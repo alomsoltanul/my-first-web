@@ -1,0 +1,28 @@
+div{
+    background-color: tomato;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+}
+.first h1{
+    color: aliceblue;
+    font-size: 65px;
+    font-style: italic;
+    text-align: center;
+}
+.first h2{
+    color: aqua;
+}
+div span{
+    margin: 20px;
+    color: white;
+    letter-spacing: 2px;
+}
+.second{
+    background-color: turquoise;
+}
+.second span{
+    font-size: 22px;
+    font-weight: 500px;
+    font-style: italic;
+}
